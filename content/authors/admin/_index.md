@@ -2,25 +2,22 @@
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Applied Probability
+    institution: University of Liverpool
+    year: 2005
+  - course: MMATHSTAT in Mathematics and Statistics
+    institution: University of Newcastle-Upon-Tyne
+    year: 2001
+email: "n.green@ucl.ac.uk"
 highlight_name: false
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University College London
+  url: https://www.ucl.ac.uk/
+role: Senior Research Fellow in Bayesian Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,13 +35,17 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Nathan Green
 user_groups:
 - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Statistician and Mathematical Modeller Research Fellow in the Department of Statistics, [UCL](https://www.ucl.ac.uk/statistics/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have a number of years experience working on a wide range of projects across government and academia in defence and health.
+
+I studied mathematics and statistics at the University of Newcastle-Upon-Tyne and obtained a PhD in applied probability from the University of Liverpool. After working for the [Ministry of Defence](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) for several years, applying novel Bayesian Inference ideas, I moved back into academia and the field of public health in 2010.
+
+**Disclaimer**: All views are my own and do not reflect that of my employer.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
